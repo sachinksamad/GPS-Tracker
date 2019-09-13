@@ -21,8 +21,8 @@ Steps
       2.3 Add Firebase SDK 
       2.4 Add Gradle Dependencies 
       
-   3. Create Activities 
-      3.1 Create Login Activity(File code into Project root folder)
-      3.2 
+  3. Create Activities
+  
+  4. Download SDK 
 
 
